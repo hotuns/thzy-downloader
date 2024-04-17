@@ -1,0 +1,8 @@
+downloader
+
+output
+output/*
+
+__debug**
+
+.env

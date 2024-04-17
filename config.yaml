@@ -1,0 +1,8 @@
+# 用逗号分隔的设备ID列表
+# deviceIds: "1043,1050"
+# 开始时间，格式为"YYYY-MM-DD"
+startTime: "2023-01-01"
+# 结束时间，格式为"YYYY-MM-DD"
+endTime: "2023-01-02"
+# 下载数据类型，可选值为"data"或"image"或"all"
+downloadType: "all"
